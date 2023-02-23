@@ -4,11 +4,19 @@ Library of Intellect is a library based web app which sorts and displays eBooks 
 
 You will need to create a new route for each subject, as specified in the original app. 
 
-## Getting Started
+## Run the Applocation
 
-To get started with using the web app, clone and run the `index.js` file. it will be hosted at port `3000`
+### Getting Started
+
+To get started with using the web app, clone and run the `index.js` file and create a `.env` file in the root directory and run the scripts. 
 
 `git clone https://github.com/smyk07/library-of-intellect.git`
+
+### Adding Your Books
+
+You can use this app by simply editing the routes and json entries, and adding your books in the directory `./books/[subject]` (PDF only). 
+
+You will need to create a new route for each subject, as specified in the original app. 
 
 ## Contributing
 
